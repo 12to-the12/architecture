@@ -5,9 +5,11 @@ A shared  éanna logan architure 3D project
 
 
 
-Files
-- blend
+## file structure
+only stuff not linked to goes in subdirectories
+- [renders]
+- [reference]
+- .blend
 - materials
-- HDRI
-- reference
-- notes, literature, plans
+- HDRIs
+- notes, literature, plans (all in this file)
